@@ -1,0 +1,2 @@
+FOR BEst EFFECTS open localhost:8000 on firefox or edge
+chrome doesnt support cross origin requests for local files so you will not able to see the changes made
